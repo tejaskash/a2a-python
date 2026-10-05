@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/a2aproject/a2a-python/compare/v1.2.2...v1.2.3) (2026-10-05)
+
+
+### Bug Fixes
+
+* **jcs:** count open containers for the nesting bound, so an empty container leaf is refused ([#1294](https://github.com/a2aproject/a2a-python/issues/1294)) ([5653daf](https://github.com/a2aproject/a2a-python/commit/5653daf8315ab58c8dacc53be720c4ed632ee7ce))
+
 ## [1.2.2](https://github.com/a2aproject/a2a-python/compare/v1.2.1...v1.2.2) (2026-10-03)
 
 
